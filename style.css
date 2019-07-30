@@ -22,3 +22,21 @@ body {
     /* background-color: rgba(255, 0, 0, 0.3); */
     height: 500px;
 }
+
+/* 導覽列區塊 */
+#logo {
+    /* 字體大小 fz2e */
+    font-size: 2em;
+}
+
+nav a {
+    /* 邊框底部 bdb */
+    border-bottom: 1.5px solid #fff;
+    /* 內距 p */
+    padding: 10px 0;
+}
+
+a {
+    /* 文字裝飾 td */
+    text-decoration: none;
+}
